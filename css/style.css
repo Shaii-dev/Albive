@@ -884,27 +884,3 @@ section {
 
   
 }
-
-
-
-
-.sample-bg-red,
-.sample-bg-yellow,
-.sample-bg-green {
-  width: 100px;
-  height: 50px;
-}
-
-.sample-bg-red {
-  background: red;
-}
-.sample-bg-yellow {
-  background: yellow;
-}
-.sample-bg-green {
-  background: green;
-}
-
-.sample {
-  height: 1920px;
-}
